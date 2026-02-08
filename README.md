@@ -1,2 +1,3 @@
 # Reverse-E-Mal-Anal_training_and_write-ups
 My favorite challenges in ctfs and my favorite classes in school, and my favorite rooms on tryhackme are the ones that let me play around with malware, write detection rules to block it, and reverse engineer to see what it does. Notes on my training since I started a deeper dive into this area.
+Eventually this repo will hold malware reports that I write as I practice analyzing them and other portfolio projects.
