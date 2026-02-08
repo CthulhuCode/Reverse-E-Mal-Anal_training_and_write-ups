@@ -1,0 +1,6 @@
+Yara components:
+    1. import modules - useful to extend YARA functionality
+    2. Rule Name - Self-explanatory
+    3. Metadata - code comments/explanation of the rule
+    4. strings - the thing the rule is searching for/matching against
+    5. conditions - boolean conditions that determine how the strings have to appear
